@@ -5,6 +5,7 @@
 .
 ├── README.md
 ├── requirements.txt
+|-- common
 ├── setup.py
 └── states
     └── himachal_pradesh
@@ -27,6 +28,7 @@
 IDS DRR V2 - more concise rewrite
 
 ## Data Structure
+- `common/`: Common scripts/files (Common portions of GEPNIC scrapers, bhuvan common dataset)
 - `data/raw`: Raw  data
 - `data/processed`: Contains processed data after transformation
   - `district_geojson`: Individual district boundary files
