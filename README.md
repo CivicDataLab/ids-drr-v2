@@ -3,12 +3,6 @@
 This project provides a comprehensive analysis framework for IDS DRR (States → Districts → Revenue Circles).
 
 ## Project Structure
-- `states/`: Contains state-wise analysis
-  - Each state has its own analysis pipeline
-  - Districts and revenue circles are nested within each state
-- `config/`: Configuration files
-- `docs/`: Documentation
-- `scripts/`: Utility scripts
 
 ## Setup
 1. Clone the repository
